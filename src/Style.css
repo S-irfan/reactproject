@@ -1,0 +1,99 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+FR+Moderne:wght@100..400&display=swap');
+.ali{
+    background: url('images/BMI-3.pic');
+    background-repeat: none;
+    background-attachment: fixed;
+    background:cover;
+    width:auto;
+    height: auto;
+}
+.alla{
+    background: url('images/contact-1.pic');
+    background-repeat: none;
+    background-attachment: fixed;
+    background:cover;
+    width:auto;
+    height: auto;
+
+}
+.a{
+    background-color:cadetblue;
+    
+    
+}
+#aa{
+  border-radius: 50%;
+}
+.b{
+    background: url('images/about-1.pic');
+    background-repeat: none;
+    background-attachment: fixed;
+    background:cover;
+}
+.c{
+    background: url('images/food.pic');
+    background-color: grey;
+    
+}
+.d{
+    background-image: url('images/food-3.pic');
+    background-repeat: none;
+    background-attachment: fixed;
+    background:cover;
+}
+.e{
+    background-image: url('images/products.pic');
+    background-repeat: none;
+    background-attachment: fixed;
+    background:cover;
+}
+.f{
+    background-image: url('images/movies.pic');
+    background-repeat: none;
+    background-attachment: fixed;
+    background:cover;
+}
+.g{
+    background-image: url('images/movies-5.pic');
+    
+}
+.h{
+    background-image: url('images/weather-11.pic');
+    background-repeat: none;
+    background-attachment: fixed;
+    background:cover;
+    height:100%;
+ 
+}
+.i{
+    background-image: url('images/new-2.pic');
+    background-repeat: none;
+    background-attachment: fixed;
+    background:cover;
+   width: 100%;
+ 
+}
+.j{
+    background-image: url('images/login.pic');
+    background-repeat: none;
+    background-attachment: fixed;
+    background:cover;
+   width: 100%;
+    
+}
+
+#k:hover{
+    color:aqua;
+}
+#l:hover{
+    color:aqua;
+}
+#n:hover{
+    color:aqua;
+}
+#m:hover{
+    color:aqua;
+}
+#o:hover{
+    color:aqua;
+}
